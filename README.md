@@ -1,6 +1,4 @@
-### Hi there 
-
-Hello, I'm Renato 👋!
+### Hello, I'm Renato 👋!
 
 ⭐   I'm a Civil Engineering Student
 💻   Software Developer 
