@@ -4,4 +4,4 @@
 
 💻   Software Developer 
 
-🏡   Brazilian, based in Maceió, AL
+🏡   Brazilian, based in Florianópolis, SC
